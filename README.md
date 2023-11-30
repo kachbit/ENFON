@@ -1,7 +1,7 @@
 # ENFON
 Etymolographic Nodal Flowchart Object Notation. for [etymolograph](https://github.com/kachbit/etymolograph)
 <br><br>
-file: ``root_term.nfon``<br> 
+file: ``root_term.enfo``. <br>Stored with .zip file compression format.<br> 
 ```
 {*nodeID*
    [origin_language] "word_term" (meaning) <time_period>
